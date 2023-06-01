@@ -52,7 +52,8 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Hello</h1>
-        <p>This is from dev branch. </p>
+        <p>This is Mark. </p>
+        <a href="https://i0.wp.com/ravingotaku.com/wp-content/uploads/2021/10/tokyo-manji-gang-tokyo-revengers.jpg?w=500&ssl=1">toman</a>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
